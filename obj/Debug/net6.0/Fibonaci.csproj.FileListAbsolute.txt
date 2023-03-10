@@ -1,0 +1,15 @@
+C:\Users\ca.r214.14\Desktop\Fibonaci\bin\Debug\net6.0\Fibonaci.exe
+C:\Users\ca.r214.14\Desktop\Fibonaci\bin\Debug\net6.0\Fibonaci.deps.json
+C:\Users\ca.r214.14\Desktop\Fibonaci\bin\Debug\net6.0\Fibonaci.runtimeconfig.json
+C:\Users\ca.r214.14\Desktop\Fibonaci\bin\Debug\net6.0\Fibonaci.dll
+C:\Users\ca.r214.14\Desktop\Fibonaci\bin\Debug\net6.0\Fibonaci.pdb
+C:\Users\ca.r214.14\Desktop\Fibonaci\obj\Debug\net6.0\Fibonaci.csproj.AssemblyReference.cache
+C:\Users\ca.r214.14\Desktop\Fibonaci\obj\Debug\net6.0\Fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\Fibonaci\obj\Debug\net6.0\Fibonaci.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\Fibonaci\obj\Debug\net6.0\Fibonaci.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\Fibonaci\obj\Debug\net6.0\Fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\Fibonaci\obj\Debug\net6.0\Fibonaci.dll
+C:\Users\ca.r214.14\Desktop\Fibonaci\obj\Debug\net6.0\refint\Fibonaci.dll
+C:\Users\ca.r214.14\Desktop\Fibonaci\obj\Debug\net6.0\Fibonaci.pdb
+C:\Users\ca.r214.14\Desktop\Fibonaci\obj\Debug\net6.0\Fibonaci.genruntimeconfig.cache
+C:\Users\ca.r214.14\Desktop\Fibonaci\obj\Debug\net6.0\ref\Fibonaci.dll
